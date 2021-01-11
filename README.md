@@ -8,6 +8,6 @@
 
 #### Next Plan ####
 - Apply AWS Light sail for 24/7 operating service.
-- PostgreSQL apply.
+- Apply PostgreSQL.
 
 
