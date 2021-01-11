@@ -13,23 +13,23 @@
 ---
 
 # File Description #
-1) models.py
+#### 1) models.py
 - Database processing
 - Database Model definition
 
-2) forms.py
+#### 2) forms.py
 - Form Processing based on Model by 
 
-3) views directory
+#### 3) views directory
 - Functions for UI Implementation
 
-4) static directory
+#### 4) static directory
 - CSS / .js / img files
 
-5) templates directory
+#### 5) templates directory
 - Question list / Question Detail / l
 
-6) config.py
+#### 6) config.py
 - Environment variable and Database setting about the project
 
 
