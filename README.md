@@ -12,6 +12,27 @@
 
 ---
 
+# File Description #
+1) models.py
+- Database processing
+- Database Model definition
+
+2) forms.py
+- Form Processing based on Model by 
+
+3) views directory
+- Functions for UI Implementation
+
+4) static directory
+- CSS / .js / img files
+
+5) templates directory
+- Question list / Question Detail / l
+
+6) config.py
+- Environment variable and Database setting about the project
+
+
 
 ### _1) Main Page_
 ![image](https://user-images.githubusercontent.com/45419456/104181651-8926b980-5452-11eb-93fb-cd580a3a0994.png)
