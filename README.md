@@ -14,7 +14,7 @@
 #### Main Page ####
 ![image](https://user-images.githubusercontent.com/45419456/104181651-8926b980-5452-11eb-93fb-cd580a3a0994.png)
 
-#### dfasdf ####
+#### Content Page ####
 ![image](https://user-images.githubusercontent.com/45419456/104181806-bd01df00-5452-11eb-99d0-3b591b3bd32a.png)
 
 #### dfdsfasd ####
