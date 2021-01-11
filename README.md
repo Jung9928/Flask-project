@@ -32,7 +32,7 @@
 #### 6) config.py
 - Environment variable and Database setting about the project
 
-
+---
 
 ### _1) Main Page_
 ![image](https://user-images.githubusercontent.com/45419456/104181651-8926b980-5452-11eb-93fb-cd580a3a0994.png)
