@@ -1,5 +1,4 @@
 # Simple Web DashBoard #
----
 
 # Devtool & Language #
 - Python
@@ -10,6 +9,8 @@
 # Next Plan #
 - Apply AWS Light sail for 24/7 operating service.
 - Apply PostgreSQL.
+
+---
 
 
 ### Main Page ###
