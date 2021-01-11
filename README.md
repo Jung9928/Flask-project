@@ -20,8 +20,8 @@
 #### Question Upload Page ####
 ![image](https://user-images.githubusercontent.com/45419456/104181850-cdb25500-5452-11eb-8c5a-d8be12830fd9.png)
 
-#### dfsdfdfaf ####
+#### Register Page ####
 ![image](https://user-images.githubusercontent.com/45419456/104181873-db67da80-5452-11eb-944d-1fe371f89274.png)
 
-#### dfdsfads ####
+#### Login Page ####
 ![image](https://user-images.githubusercontent.com/45419456/104181892-e4f14280-5452-11eb-8ac3-6e0052a3f8bc.png)
