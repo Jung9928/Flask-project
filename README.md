@@ -1,4 +1,4 @@
-# Web DashBoard Toy project (Clone Coding) #
+# Web DashBoard Toy project #
 
 #### Devtool & Language ####
 - Python
