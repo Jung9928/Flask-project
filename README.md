@@ -1,4 +1,4 @@
-# Web DashBoard Toy project #
+# Simple Web DashBoard #
 
 #### Devtool & Language ####
 - Python
