@@ -12,6 +12,10 @@
 
 ---
 
+# Project Structure #
+![image](https://user-images.githubusercontent.com/45419456/104187987-ec691980-545b-11eb-8569-3b14979ab56b.png)
+
+---
 # File Description #
 #### 1) models.py
 - Database processing
