@@ -13,7 +13,7 @@
 ---
 
 
-### ***1) Main Page ***
+### * 1) Main Page 
 ![image](https://user-images.githubusercontent.com/45419456/104181651-8926b980-5452-11eb-93fb-cd580a3a0994.png)
 
 ### *** 2) Content Page ***
