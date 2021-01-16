@@ -1,7 +1,16 @@
 # Simple Web DashBoard #
 
+---
+
+# What are the Functions? #
+- CRUD Post & Comment
+- Recommended function each Post
+- Register & Login & Logout
+
+---
+
 # Devtool & Language #
-- Python
+- Python 3.7
 - Flask Framework
 - html / css / bootstrap
 - SqlAlchemy
